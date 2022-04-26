@@ -4,7 +4,6 @@
     box-sizing:border-box;
 }
 .myspan{
-   border:1px solid red; 
    display: inline-block;
    width: 30%;
 }
@@ -12,7 +11,6 @@ body{
     background-color: rgb(223, 223, 223);
 }
 .container{
-    border:1px solid blue;
     position: relative;
 }
 /* .taiji{
